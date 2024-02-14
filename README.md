@@ -38,3 +38,4 @@
 2. event emitter 를 추상화하여 메세지큐 로 다형성 처리.
 3. 유닛 테스트 커버리지 상승.
 
+회고: https://velog.io/@scarfunk/TIL-%ED%86%A0%EC%9D%B4%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B81-%ED%9A%8C%EA%B3%A0
